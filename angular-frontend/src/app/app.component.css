@@ -1,0 +1,9 @@
+.navbar-custom{
+    background-color: #03426b;
+}
+
+.navbar-text{
+    color: #bdbec2;
+    font-weight: bolder;
+    margin-left: 5%;
+}
