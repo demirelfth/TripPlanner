@@ -1,11 +1,12 @@
-# Plan My Journey
+# Trip Planner
 Assignment
 
 
-1- Node paketleri indirmek için
-	-> Terminalde(angular-frontend uzantısında) "npm install --force" komutu kullanılır.
-2- Uygulamayı çalıştırmak için
-	-> Terminalde(angular-frontend uzantısında) "ng serve" komutu çalıştırılır.
+1- To download node packages:
+	-> Run "npm install --force" command on terminal
+2- To run application
+	-> Run "ng serve" command on terminal that must be opened same file location with angular-frontend
+ 	-> 
 	-> Terminalde yeni sekmede(angular-fronend\src\app uzantısında) "node app.js" komutu çalıştırılır.
 		(app.js file eksik)
 
