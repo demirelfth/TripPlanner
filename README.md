@@ -6,10 +6,8 @@ Assignment
 	-> Run "npm install --force" command on terminal
 2- To run application
 	-> Run "ng serve" command on terminal that must be opened same file location with angular-frontend
- 	-> 
-	-> Terminalde yeni sekmede(angular-fronend\src\app uzantısında) "node app.js" komutu çalıştırılır.
-		(app.js file eksik)
+ 	-> Run "node app.js" command on new terminal section that must be opened same file location with angular-fronend\src\app
 
-Uygulama içeriği:
-	harita üzerinde mavi marker "from" kordinatlarını,
-	kırmızı marker "to" kordinatlarını göstermekte
+Application content:
+	The map has blue marker to display "from" coordinates,
+ 	and red marker to display "to" coordinates.
