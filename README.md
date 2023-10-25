@@ -1,4 +1,4 @@
-# detaysoft
+# Plan My Journey
 Assignment
 
 
